@@ -1,0 +1,39 @@
+body {
+	background-image: url("bg.jpg");
+	font-weight: bold;
+	margin-top: 10%;
+	text-align: center;
+}
+button {
+	background: goldenrod;
+	border: none;
+	border-radius: 16px;
+	color: #7F948F;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: bold;
+	opacity: 0.9;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-right: 32px;
+	padding-left: 32px;
+
+}
+h1 {
+	color: goldenrod;
+	font-family: sans-serif;
+}
+h2 {
+	color: white;
+	font-family: sans-serif;
+	font-style: italic;
+}
+h3 {
+	color: white;
+	font-family: sans-serif;
+}
+span {
+	color: wheat;
+	font-family: sans-serif;
+}
